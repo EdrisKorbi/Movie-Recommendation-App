@@ -17,19 +17,6 @@ Movie App is a frontend web application built with React and Vite, designed to e
 -   **Styling**: CSS
 -   **API**: The Movie Database (TMDB) API
 
-## 📸 Screenshots
-
-_(Placeholder: Add screenshots of the application here. For example, a screenshot of the homepage, search results, and movie details modal.)_
-
--   **Homepage with Popular Movies**
-    ![Homepage Screenshot Placeholder](https://via.placeholder.com/800x450?text=Homepage+Screenshot)
-
--   **Search Results Page**
-    ![Search Results Screenshot Placeholder](https://via.placeholder.com/800x450?text=Search+Results+Screenshot)
-
--   **Movie Details Modal**
-    ![Movie Details Modal Screenshot Placeholder](https://via.placeholder.com/800x450?text=Movie+Details+Modal+Screenshot)
-
 ## ⚙️ Installation & Setup
 
 Follow these steps to get the Movie App up and running on your local machine.
